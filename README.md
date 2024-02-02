@@ -1,11 +1,12 @@
 
 # 💫 About Me:
 Mi principal área de expertise es Python, un lenguaje de programación versátil y poderoso que he estudiado a fondo. Además,<br>
-poseo sólidos conocimientos en el manejo de bases de datos, destacando mi experiencia con MySQL y SQL Server. Estoy familiarizado <br>
-con la administración eficiente de datos y su manipulación para garantizar un rendimiento óptimo.En el ámbito de la ingeniería<br>
-de datos, he trabajado con PySpark, una herramienta esencial para el procesamiento distribuido de datos a gran escala.<br>
-En el desarrollo de interfaces de usuario, he utilizado Tkinter para crear soluciones interactivas y atractivas.<br> 
-Mi enfoque se centra en la creación de interfaces intuitivas que mejoren la experiencia del usuario, combinando funcionalidad y <br>diseño de manera armoniosa.
+poseo sólidos conocimientos en el manejo de bases de datos, destacando mi experiencia con MySQL y SQL Server. Estoy familia-<br>
+rizado con la administración eficiente de datos y su manipulación para garantizar un rendimiento óptimo.En el ámbito de la <br>
+ingeniería de datos, he trabajado con PySpark, una herramienta esencial para el procesamiento distribuido de datos a gran <br>
+escala.En el desarrollo de interfaces de usuario, he utilizado Tkinter para crear soluciones interactivas y atractivas. Mi <br>
+enfoque se centra en la creación de interfaces intuitivas que mejoren la experiencia del usuario, combinando funcionalidad y<br>
+diseño de manera armoniosa.
 
 
 ## 🌐 Socials:
